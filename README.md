@@ -1,4 +1,4 @@
-# Syntecxhub-Internship
+# Syntecxhub-Task1
 📘 Expense Tracker — React.js
 
 A simple and responsive Expense Tracker built using React Hooks such as
